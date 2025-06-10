@@ -1,4 +1,4 @@
-# AWS Madrid Summit 2025 - Optimizing Amazon EKS with Karpenter, Graviton and Spot: Tinybird case
+# AWS Madrid Summit 2025 - DEV301 - Optimizando Amazon EKS con Karpenter, Graviton y Spot: Caso Tinybird
 
 ## Karpenter
 
