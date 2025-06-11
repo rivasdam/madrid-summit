@@ -1,4 +1,4 @@
-# AWS Madrid Summit 2025 - DEV301 - Optimizando Amazon EKS con Karpenter, Graviton y Spot: Caso Tinybird
+# AWS Madrid Summit 2025 - Optimizing Amazon EKS with Karpenter, Graviton and Spot: Tinybird case
 
 ## Karpenter
 
@@ -14,6 +14,9 @@
 - [Getting Started with AWS Graviton](https://github.com/aws/aws-graviton-getting-started)
 - [Graviton Performance Benchmarks](https://aws.amazon.com/blogs/compute/graviton-performance-benchmarking/)
 - [Migrating to AWS Graviton](https://docs.aws.amazon.com/whitepapers/latest/aws-graviton-migration/aws-graviton-migration.html)
+- [Graviton Porting Advisor](https://github.com/aws/porting-advisor-for-graviton)
+- [Graviton Transition Guide](https://github.com/aws/aws-graviton-getting-started/blob/main/transition-guide.md)
+- [Docker Buildx](https://docs.docker.com/reference/cli/docker/buildx/)
 
 ## EC2 Spot Instances
 
@@ -36,6 +39,7 @@
 - [Spot Instances Workshop](https://ec2spotworkshops.com/)
 - [Graviton Workshop](https://github.com/aws-samples/graviton-workshop)
 - [CUDOS Dashboards](https://catalog.workshops.aws/awscid/en-US/dashboards)
+- [Migrating x86-based applications to AWS Graviton Processors](https://catalog.us-east-1.prod.workshops.aws/workshops/2d8b3460-3bff-49a0-a6af-cb4c7460e70c/en-US)
 
 ## Other optimizations
 
