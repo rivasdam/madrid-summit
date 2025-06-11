@@ -24,6 +24,7 @@
 - [Spot Best Practices for EKS](https://aws.github.io/aws-eks-best-practices/spot/)
 - [Spot Instances Advisor](https://aws.amazon.com/ec2/spot/instance-advisor/)
 - [Handling Spot Interruptions](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-interruptions.html)
+- [Fault Injector Simulator - Simulate Spot interruptions] (https://docs.aws.amazon.com/fis/latest/userguide/fis-tutorial-spot-interruptions.html)
 
 ## EKS Cost Optimization
 
