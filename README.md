@@ -1,7 +1,7 @@
 # AWS Madrid Summit 2026 - Entrena modelos en producción sin grandes equipos: el caso de Orga AI
 
 ## Orga AI
-- [Docs] (https://docs.orga-ai.com/)
+- [Docs](https://docs.orga-ai.com/)
 
 ## Distributed Training on EKS (DIY)
 
