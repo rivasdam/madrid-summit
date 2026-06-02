@@ -1,7 +1,9 @@
 # AWS Madrid Summit 2026 - Entrena modelos en producción sin grandes equipos: el caso de Orga AI
 
 ## Orga AI
+- [Home page](https://orga-ai.com)
 - [Docs](https://docs.orga-ai.com/)
+- [Build AI Apps that see hear and talk back in under 30 minutes](https://www.codemotion.com/magazine/ai-ml/build-ai-apps-that-see-hear-and-talk-back-in-under-30-minutes/)
 
 ## Distributed Training on EKS (DIY)
 
